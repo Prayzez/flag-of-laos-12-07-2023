@@ -1,2 +1,2 @@
-# flag-of-laos-12-07-2023
-Project from the 12.07.2023 the flag of laos
+# motivational-meme-12-07-2023
+A task to create a motivational meme 12.07.2023
